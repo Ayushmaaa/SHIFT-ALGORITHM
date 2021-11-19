@@ -1,2 +1,3 @@
-# Analysis-of-OpenMp-and-Open-MPI-Parallelism-on-the-SHIFT-Algorithm
+PDC PROJECT
+
 Project
